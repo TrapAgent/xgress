@@ -1,2 +1,2 @@
 # xgress
-Ingress scraper site xgress.com
+Ingress Prime scraper site https://xgress.com
